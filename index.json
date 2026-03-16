@@ -4,7 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.zh.dumanwu1",
     "apk": "tachiyomi-zh.dumanwu-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
+    "code": 2,
     "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
@@ -13,7 +13,7 @@
       {
         "name": "读漫屋",
         "lang": "zh",
-        "id": "6696312508930833206",
+        "id": "7167507050606280098",
         "baseUrl": "https://m.dumanwu1.com",
         "versionId": 1
       }
