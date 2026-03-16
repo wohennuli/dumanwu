@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Dumanwu",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.dumanwu1",
+    "apk": "tachiyomi-zh.dumanwu1-v1.0.0.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "读漫屋",
+        "lang": "zh",
+        "id": "6696312508930833206",
+        "baseUrl": "https://m.dumanwu1.com",
+        "versionId": 1
+      }
+    ]
+  }
+]
